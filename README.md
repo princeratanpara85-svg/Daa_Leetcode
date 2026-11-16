@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
