@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0290-word-pattern) |
 ## String Matching
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0169-majority-element) |
+| [0290-word-pattern](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0290-word-pattern) |
 ## Counting
 |  |
 | ------- |
