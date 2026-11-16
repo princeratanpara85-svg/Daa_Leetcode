@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
