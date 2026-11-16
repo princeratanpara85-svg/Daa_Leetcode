@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0415-add-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0070-climbing-stairs) |
+| [0415-add-strings](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0415-add-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
