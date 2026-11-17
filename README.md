@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0682-baseball-game) |
 | [3731-find-missing-elements](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/3731-find-missing-elements) |
@@ -58,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0389-find-the-difference) |
 | [1763-longest-nice-substring](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/1763-longest-nice-substring) |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0561-array-partition) |
 | [3731-find-missing-elements](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/3731-find-missing-elements) |
@@ -126,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0389-find-the-difference) |
