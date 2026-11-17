@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0682-baseball-game) |
 | [3731-find-missing-elements](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/3731-find-missing-elements) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0561-array-partition) |
 | [3731-find-missing-elements](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/3731-find-missing-elements) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0389-find-the-difference) |
