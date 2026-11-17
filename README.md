@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0682-baseball-game) |
 | [3731-find-missing-elements](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0682-baseball-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0561-array-partition) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
