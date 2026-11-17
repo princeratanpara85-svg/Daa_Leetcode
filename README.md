@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0561-array-partition) |
 | [3731-find-missing-elements](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0561-array-partition) |
 | [3731-find-missing-elements](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -143,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0039-combination-sum) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/princeratanpara85-svg/Daa_Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
